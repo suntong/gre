@@ -67,7 +67,7 @@ func main() {
 	case "gitlab":
 		token = os.Getenv("GITLAB_TOKEN")
 		if token == "" {
-			log.Fatal("Error: GITLAB_TOKEN environment variable not set.")
+			log.Println("Warning: GITLAB_TOKEN not set. Using unauthenticated requests.")
 		}
 		searcher = NewGitLabSearcher(token, client)
 	case "bitbucket":
