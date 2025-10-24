@@ -75,6 +75,7 @@ func main() {
 		if token == "" {
 			log.Fatal("Error: BITBUCKET_TOKEN environment variable not set. Expected format is 'username:app_password'.")
 		}
+		// Useless!! The authenticated call will only search repos where you have an explicit role (member, contributor, admin, or owner)!
 		searcher = NewBitbucketSearcher(token, client)
 	case "gitcode":
 		token = os.Getenv("GITCODE_TOKEN")
