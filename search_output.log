@@ -1,0 +1,1596 @@
+Found 250 repositories:
+
+1. taylorconor/tinytetris (GitHub)
+   URL: https://github.com/taylorconor/tinytetris
+   Description: 80x23 terminal tetris!
+   Language: C++ | Stars: 3184 | Forks: 637
+   Created: 2019-03-30T22:48:25Z | Updated: 2025-10-24T02:46:14Z
+--------------------------------------------------
+2. chvin/react-tetris (GitHub)
+   URL: https://github.com/chvin/react-tetris
+   Description: Use React, Redux, Immutable to code Tetris. 🎮
+   Language: JavaScript | Stars: 8643 | Forks: 2260
+   Created: 2016-12-20T12:26:11Z | Updated: 2025-10-23T18:23:33Z
+   Topics: immutable, react, redux, tetris
+--------------------------------------------------
+3. jakesgordon/javascript-tetris (GitHub)
+   URL: https://github.com/jakesgordon/javascript-tetris
+   Description: A simple javascript tetris game
+   Language: HTML | Stars: 703 | Forks: 849
+   Created: 2011-10-10T14:49:44Z | Updated: 2025-10-21T15:22:16Z
+--------------------------------------------------
+4. Hextris/hextris (GitHub)
+   URL: https://github.com/Hextris/hextris
+   Description: Fast paced HTML5 puzzle game inspired by Tetris!
+   Language: JavaScript | Stars: 2336 | Forks: 1038
+   Created: 2014-05-17T13:17:26Z | Updated: 2025-10-23T22:03:09Z
+--------------------------------------------------
+5. Aerolab/blockrain.js (GitHub)
+   URL: https://github.com/Aerolab/blockrain.js
+   Description: HTML5 Tetris Game for jQuery
+   Language: JavaScript | Stars: 977 | Forks: 393
+   Created: 2015-01-07T16:07:11Z | Updated: 2025-09-30T01:59:30Z
+--------------------------------------------------
+6. LoveDaisy/tetris_game (GitHub)
+   URL: https://github.com/LoveDaisy/tetris_game
+   Description: A Tetris Game with AI
+   Language: Python | Stars: 752 | Forks: 285
+   Created: 2017-07-05T03:18:58Z | Updated: 2025-10-22T07:27:17Z
+   Topics: ai, game, python3, tetris-game
+--------------------------------------------------
+7. dionyziz/canvas-tetris (GitHub)
+   URL: https://github.com/dionyziz/canvas-tetris
+   Description: A 2D tetris game in HTML5 canvas
+   Language: JavaScript | Stars: 457 | Forks: 239
+   Created: 2012-05-22T18:31:39Z | Updated: 2025-09-09T17:24:11Z
+--------------------------------------------------
+8. exyte/ARTetris (GitHub)
+   URL: https://github.com/exyte/ARTetris
+   Description: Augmented Reality Tetris made with ARKit and SceneKit
+   Language: Swift | Stars: 1535 | Forks: 177
+   Created: 2017-06-30T10:02:46Z | Updated: 2025-10-20T22:21:42Z
+   Topics: arkit, ios, scenekit, swift, tetromino
+--------------------------------------------------
+9. vocollapse/Blockinger (GitHub)
+   URL: https://github.com/vocollapse/Blockinger
+   Description: Tetris clone for Android
+   Language: Java | Stars: 221 | Forks: 148
+   Created: 2013-04-05T16:07:23Z | Updated: 2025-10-19T14:57:54Z
+--------------------------------------------------
+10. MinusKelvin/cold-clear (GitHub)
+   URL: https://github.com/MinusKelvin/cold-clear
+   Description: Tetris Bot
+   Language: Rust | Stars: 266 | Forks: 73
+   Created: 2019-08-12T00:08:05Z | Updated: 2025-09-29T08:20:40Z
+--------------------------------------------------
+11. Binaryify/vue-tetris (GitHub)
+   URL: https://github.com/Binaryify/vue-tetris
+   Description: Use Vue, Vuex to code Tetris.使用 Vue, Vuex 做俄罗斯方块
+   Language: JavaScript | Stars: 2763 | Forks: 562
+   Created: 2017-06-12T09:37:34Z | Updated: 2025-10-23T05:33:05Z
+   Topics: immutable, vue, vuex
+--------------------------------------------------
+12. lucianoforks/falling-block-puzzle-game-os (GitHub)
+   URL: https://github.com/lucianoforks/falling-block-puzzle-game-os
+   Description: An operating system, but it only plays Tetris.
+   Language: Unknown | Stars: 270 | Forks: 247
+   Created: 2021-04-19T15:56:30Z | Updated: 2025-09-28T22:53:39Z
+--------------------------------------------------
+13. veu/mini-tetris (GitHub)
+   URL: https://github.com/veu/mini-tetris
+   Description: Tetris in 512b
+   Language: JavaScript | Stars: 564 | Forks: 51
+   Created: 2017-10-05T19:04:00Z | Updated: 2025-06-10T14:03:32Z
+--------------------------------------------------
+14. vitaviva/compose-tetris (GitHub)
+   URL: https://github.com/vitaviva/compose-tetris
+   Description: 🧱  A tetris game fully built using Jetpack Compose
+   Language: Kotlin | Stars: 854 | Forks: 173
+   Created: 2021-04-03T14:02:09Z | Updated: 2025-10-17T00:02:45Z
+   Topics: android-game, jetpack-compose, mvi-architecture, tetris-game
+--------------------------------------------------
+15. vietnh1009/Tetris-deep-Q-learning-pytorch (GitHub)
+   URL: https://github.com/vietnh1009/Tetris-deep-Q-learning-pytorch
+   Description: Deep Q-learning for playing tetris game
+   Language: Python | Stars: 515 | Forks: 118
+   Created: 2020-03-29T10:35:44Z | Updated: 2025-10-23T15:28:03Z
+   Topics: cv2, deep-q-learning, deep-q-network, pytorch, reinforcement-learning
+--------------------------------------------------
+16. uuner/sedtris (GitHub)
+   URL: https://github.com/uuner/sedtris
+   Description: Tetris in sed
+   Language: Shell | Stars: 556 | Forks: 41
+   Created: 2012-05-04T03:49:58Z | Updated: 2025-10-22T20:27:10Z
+--------------------------------------------------
+17. sandywalker/Tetris (GitHub)
+   URL: https://github.com/sandywalker/Tetris
+   Description: Html5 Tetris game
+   Language: JavaScript | Stars: 115 | Forks: 77
+   Created: 2015-07-07T08:31:44Z | Updated: 2025-02-03T22:11:45Z
+--------------------------------------------------
+18. woai3c/nand2tetris (GitHub)
+   URL: https://github.com/woai3c/nand2tetris
+   Description: 计算机系统要素-从零开始构建现代计算机
+   Language: JavaScript | Stars: 2822 | Forks: 441
+   Created: 2018-09-22T13:06:04Z | Updated: 2025-10-21T16:05:36Z
+--------------------------------------------------
+19. PSNB92/Tetris (GitHub)
+   URL: https://github.com/PSNB92/Tetris
+   Description: Tetris Project
+   Language: Java | Stars: 59 | Forks: 70
+   Created: 2013-08-10T02:35:52Z | Updated: 2025-09-22T10:14:18Z
+--------------------------------------------------
+20. samtay/tetris (GitHub)
+   URL: https://github.com/samtay/tetris
+   Description: A terminal interface for Tetris
+   Language: Haskell | Stars: 965 | Forks: 43
+   Created: 2017-06-13T03:48:49Z | Updated: 2025-10-22T16:28:00Z
+   Topics: brick, game, haskell, terminal-game, tetris, tui, vty
+--------------------------------------------------
+21. trungvose/angular-tetris (GitHub)
+   URL: https://github.com/trungvose/angular-tetris
+   Description: Tetris game built with Angular and Akita 🎮
+   Language: TypeScript | Stars: 546 | Forks: 102
+   Created: 2020-07-04T14:32:20Z | Updated: 2025-10-05T11:33:19Z
+   Topics: akita, angular, typescript
+--------------------------------------------------
+22. boyan01/flutter-tetris (GitHub)
+   URL: https://github.com/boyan01/flutter-tetris
+   Description: a tetris game powered by flutter. 使用flutter开发俄罗斯方块。
+   Language: Dart | Stars: 1648 | Forks: 340
+   Created: 2019-01-11T04:31:56Z | Updated: 2025-10-20T12:42:31Z
+   Topics: android-app, dart, flutter, flutter-apps, flutter-games, ios-app
+--------------------------------------------------
+23. mattbierner/Super-Template-Tetris (GitHub)
+   URL: https://github.com/mattbierner/Super-Template-Tetris
+   Description: Tetris as a C++ Template Metaprogram
+   Language: C++ | Stars: 569 | Forks: 62
+   Created: 2015-06-30T03:27:29Z | Updated: 2025-10-05T14:28:08Z
+--------------------------------------------------
+24. brenns10/tetris (GitHub)
+   URL: https://github.com/brenns10/tetris
+   Description: Tetris in C and NCURSES.
+   Language: C | Stars: 267 | Forks: 64
+   Created: 2015-06-11T13:20:10Z | Updated: 2025-10-18T17:21:06Z
+   Topics: c, game, ncurses, sound, tetris
+--------------------------------------------------
+25. zigurous/unity-tetris-tutorial (GitHub)
+   URL: https://github.com/zigurous/unity-tetris-tutorial
+   Description: 🧩🧱 Learn to make Tetris in Unity.
+   Language: C# | Stars: 211 | Forks: 129
+   Created: 2021-08-08T12:42:24Z | Updated: 2025-10-22T16:31:38Z
+   Topics: 2d, game, tetris, tutorial, unity
+--------------------------------------------------
+26. weibenfalk/react-tetris-starter-files (GitHub)
+   URL: https://github.com/weibenfalk/react-tetris-starter-files
+   Description: Starter files for the React-Tetris tutorial
+   Language: HTML | Stars: 119 | Forks: 132
+   Created: 2019-08-09T08:59:35Z | Updated: 2025-04-22T17:32:29Z
+--------------------------------------------------
+27. ThomasRinsma/pdftris (GitHub)
+   URL: https://github.com/ThomasRinsma/pdftris
+   Description: Tetris in a PDF (in most browsers)
+   Language: Python | Stars: 1020 | Forks: 46
+   Created: 2025-01-04T22:17:33Z | Updated: 2025-10-22T16:34:40Z
+--------------------------------------------------
+28. techwithtim/Tetris-Game (GitHub)
+   URL: https://github.com/techwithtim/Tetris-Game
+   Description: The game of Tetris. Made with pygame.
+   Language: Python | Stars: 182 | Forks: 89
+   Created: 2019-06-23T21:17:17Z | Updated: 2025-09-20T18:02:27Z
+--------------------------------------------------
+29. hrpan/tetris_mcts (GitHub)
+   URL: https://github.com/hrpan/tetris_mcts
+   Description: MCTS project for Tetris
+   Language: Python | Stars: 349 | Forks: 34
+   Created: 2018-02-20T20:52:28Z | Updated: 2025-08-04T15:02:59Z
+   Topics: deep-learning, game, mcts, reinforcement-learning, tetris, tetris-bots
+--------------------------------------------------
+30. yongye/cpp (GitHub)
+   URL: https://github.com/yongye/cpp
+   Description: Tetris Game // Generalized Tetris in C++11
+   Language: Unknown | Stars: 19 | Forks: 26
+   Created: 2012-04-25T01:42:38Z | Updated: 2025-03-01T16:04:35Z
+--------------------------------------------------
+31. nuno-faria/tetris-ai (GitHub)
+   URL: https://github.com/nuno-faria/tetris-ai
+   Description: A deep reinforcement learning bot that plays tetris
+   Language: Python | Stars: 313 | Forks: 75
+   Created: 2019-07-23T16:08:20Z | Updated: 2025-10-22T16:29:41Z
+   Topics: deep-reinforcement-learning, game-ai, q-learning, tetris
+--------------------------------------------------
+32. LeeYiyuan/tetrisai (GitHub)
+   URL: https://github.com/LeeYiyuan/tetrisai
+   Description: A Tetris AI written in Javascript
+   Language: JavaScript | Stars: 202 | Forks: 61
+   Created: 2014-05-20T13:34:11Z | Updated: 2025-10-07T01:59:28Z
+--------------------------------------------------
+33. daniel-e/tetros (GitHub)
+   URL: https://github.com/daniel-e/tetros
+   Description: Tetris that fits into the boot sector.
+   Language: Assembly | Stars: 782 | Forks: 39
+   Created: 2016-09-22T10:42:55Z | Updated: 2025-09-04T13:07:01Z
+--------------------------------------------------
+34. N4si/tetris-game (GitHub)
+   URL: https://github.com/N4si/tetris-game
+   Description: Deploying Tetris game on EKS using Argocd
+   Language: Unknown | Stars: 14 | Forks: 219
+   Created: 2023-10-05T09:28:26Z | Updated: 2024-09-15T11:28:48Z
+--------------------------------------------------
+35. nuno-faria/tetris-sql (GitHub)
+   URL: https://github.com/nuno-faria/tetris-sql
+   Description: Using SQL's Turing Completeness to Build Tetris
+   Language: PLpgSQL | Stars: 998 | Forks: 42
+   Created: 2024-09-04T12:22:19Z | Updated: 2025-10-15T18:11:34Z
+   Topics: cte, game, sql, tetris
+--------------------------------------------------
+36. simonlc/tetr.js (GitHub)
+   URL: https://github.com/simonlc/tetr.js
+   Description: 🕹️ Tetris clone in HTML5 and JavaScript
+   Language: JavaScript | Stars: 106 | Forks: 83
+   Created: 2013-03-17T16:46:06Z | Updated: 2025-10-23T00:31:52Z
+   Topics: canvas, game, tetris
+--------------------------------------------------
+37. qntm/hatetris (GitHub)
+   URL: https://github.com/qntm/hatetris
+   Description: Tetris which always gives you the worst piece
+   Language: TypeScript | Stars: 873 | Forks: 43
+   Created: 2012-07-22T19:26:31Z | Updated: 2025-10-15T23:55:31Z
+--------------------------------------------------
+38. janbodnar/Java-Tetris-Game (GitHub)
+   URL: https://github.com/janbodnar/Java-Tetris-Game
+   Description: Java Tetris game clone source code
+   Language: Java | Stars: 86 | Forks: 74
+   Created: 2018-03-18T13:54:51Z | Updated: 2025-10-14T19:42:16Z
+   Topics: game, java, tetris
+--------------------------------------------------
+39. RylanBot/threejs-tetris-react (GitHub)
+   URL: https://github.com/RylanBot/threejs-tetris-react
+   Description: 🎮 3D Tetris game「俄罗斯方块」
+   Language: TypeScript | Stars: 518 | Forks: 64
+   Created: 2023-10-08T10:35:54Z | Updated: 2025-10-22T03:02:11Z
+   Topics: 3d-game, threejs
+--------------------------------------------------
+40. troglobit/tetris (GitHub)
+   URL: https://github.com/troglobit/tetris
+   Description: Micro Tetris™, based on the 1989 IOCCC Obfuscated Tetris version by John Tromp
+   Language: C | Stars: 151 | Forks: 46
+   Created: 2010-07-25T21:21:47Z | Updated: 2025-10-18T17:21:26Z
+   Topics: ansi-colors, c, tetris, tetris-clone, unix
+--------------------------------------------------
+41. tylerneylon/termtris (GitHub)
+   URL: https://github.com/tylerneylon/termtris
+   Description: A text-based game inspired by tetris.
+   Language: Lua | Stars: 460 | Forks: 41
+   Created: 2014-09-23T08:44:13Z | Updated: 2025-10-07T15:53:40Z
+--------------------------------------------------
+42. imalooney/t3tr0s (GitHub)
+   URL: https://github.com/imalooney/t3tr0s
+   Description: 30th anniversary tetris in ClojureScript
+   Language: Clojure | Stars: 466 | Forks: 27
+   Created: 2014-05-01T22:43:18Z | Updated: 2025-09-21T21:19:08Z
+--------------------------------------------------
+43. alexdantas/yetris (GitHub)
+   URL: https://github.com/alexdantas/yetris
+   Description: Customizable Tetris(tm) for the terminal.
+   Language: C++ | Stars: 175 | Forks: 48
+   Created: 2013-02-12T17:14:03Z | Updated: 2025-10-11T20:57:03Z
+--------------------------------------------------
+44. kubowania/Tetris-Basic (GitHub)
+   URL: https://github.com/kubowania/Tetris-Basic
+   Description: This is a simple no nonsense version of Tetris that has no styling
+   Language: JavaScript | Stars: 291 | Forks: 153
+   Created: 2020-05-09T11:11:18Z | Updated: 2025-07-23T04:59:59Z
+--------------------------------------------------
+45. kubowania/Tetris (GitHub)
+   URL: https://github.com/kubowania/Tetris
+   Description: A vanilla javascript game
+   Language: JavaScript | Stars: 242 | Forks: 117
+   Created: 2019-07-12T08:50:02Z | Updated: 2025-10-07T11:03:03Z
+--------------------------------------------------
+46. andrewrk/tetris (GitHub)
+   URL: https://github.com/andrewrk/tetris
+   Description: A simple tetris clone written in zig programming language.
+   Language: Zig | Stars: 446 | Forks: 58
+   Created: 2016-01-19T08:04:05Z | Updated: 2025-10-19T18:38:57Z
+   Topics: game, zig
+--------------------------------------------------
+47. ytiurin/tetris (GitHub)
+   URL: https://github.com/ytiurin/tetris
+   Description: :space_invader: The original TETRIS game simulator
+   Language: JavaScript | Stars: 215 | Forks: 50
+   Created: 2016-12-15T06:47:36Z | Updated: 2025-10-23T23:34:11Z
+   Topics: audio, demo, game, tetris, tetris-game
+--------------------------------------------------
+48. benycze/python-tetris (GitHub)
+   URL: https://github.com/benycze/python-tetris
+   Description: Tetris game in Python
+   Language: Python | Stars: 47 | Forks: 51
+   Created: 2017-11-04T11:22:31Z | Updated: 2025-10-04T16:16:13Z
+--------------------------------------------------
+49. tarantino07/tetris-js (GitHub)
+   URL: https://github.com/tarantino07/tetris-js
+   Description: https://servetg.com/tetris
+   Language: JavaScript | Stars: 145 | Forks: 30
+   Created: 2022-06-22T06:38:03Z | Updated: 2025-10-04T18:15:56Z
+--------------------------------------------------
+50. Broderick-Westrope/tetrigo (GitHub)
+   URL: https://github.com/Broderick-Westrope/tetrigo
+   Description: Play Tetris in your terminal.
+   Language: Go | Stars: 551 | Forks: 20
+   Created: 2023-11-12T02:44:11Z | Updated: 2025-10-23T10:43:19Z
+   Topics: bubbletea, cli, go, golang, hacktoberfest, tetris, tui
+--------------------------------------------------
+51. vicgeralds/vitetris (GitHub)
+   URL: https://github.com/vicgeralds/vitetris
+   Description: Classic multiplayer tetris for the terminal
+   Language: C | Stars: 237 | Forks: 35
+   Created: 2018-06-21T19:53:51Z | Updated: 2025-10-18T17:21:45Z
+--------------------------------------------------
+52. seigot/tetris (GitHub)
+   URL: https://github.com/seigot/tetris
+   Description: A Tetris Game for programming education in Japanese
+   Language: Python | Stars: 35 | Forks: 107
+   Created: 2021-12-04T17:37:48Z | Updated: 2025-10-23T23:32:25Z
+--------------------------------------------------
+53. Mukarillo/UnityTetris (GitHub)
+   URL: https://github.com/Mukarillo/UnityTetris
+   Description: Tetris clone written in C# and using Unity engine to render.
+   Language: C# | Stars: 282 | Forks: 78
+   Created: 2018-05-18T19:51:30Z | Updated: 2025-09-29T15:32:19Z
+   Topics: tetris, tetris-clone, tetris-engine, tetris-game, unity, unity2d, unity3d, unity3d-games, unityengine
+--------------------------------------------------
+54. meth-meth-method/tetris (GitHub)
+   URL: https://github.com/meth-meth-method/tetris
+   Description: A hacked together Tetris lacking design completely. Edit: it now has a little design.
+   Language: JavaScript | Stars: 142 | Forks: 99
+   Created: 2016-08-26T06:09:03Z | Updated: 2024-05-03T10:52:24Z
+--------------------------------------------------
+55. havivha/Nand2Tetris (GitHub)
+   URL: https://github.com/havivha/Nand2Tetris
+   Description: Computer implementation as described in "The Elements of Computing Systems"
+   Language: Assembly | Stars: 436 | Forks: 168
+   Created: 2013-03-10T17:04:20Z | Updated: 2025-08-31T17:11:30Z
+--------------------------------------------------
+56. kirjavascript/TetrisGYM (GitHub)
+   URL: https://github.com/kirjavascript/TetrisGYM
+   Description: nes tetris training rom
+   Language: Assembly | Stars: 236 | Forks: 21
+   Created: 2020-09-06T13:16:17Z | Updated: 2025-09-29T00:24:41Z
+--------------------------------------------------
+57. djblue/tetris (GitHub)
+   URL: https://github.com/djblue/tetris
+   Description: An almost complete tetris
+   Language: Clojure | Stars: 121 | Forks: 25
+   Created: 2018-09-16T22:23:12Z | Updated: 2025-09-19T20:14:59Z
+   Topics: clojure, clojurescript, game, tetris
+--------------------------------------------------
+58. jserv/tetris (GitHub)
+   URL: https://github.com/jserv/tetris
+   Description: A text-mode tetris game
+   Language: C | Stars: 149 | Forks: 28
+   Created: 2020-01-05T19:38:37Z | Updated: 2025-10-18T17:21:57Z
+--------------------------------------------------
+59. melcor76/js-tetris (GitHub)
+   URL: https://github.com/melcor76/js-tetris
+   Description: Read the article of how to make JavaScript Tetris:
+   Language: JavaScript | Stars: 178 | Forks: 52
+   Created: 2019-10-16T11:42:24Z | Updated: 2025-10-03T05:18:34Z
+   Topics: game, javascript, tetris
+--------------------------------------------------
+60. mafintosh/tetris (GitHub)
+   URL: https://github.com/mafintosh/tetris
+   Description: Play tetris in your terminal - in color
+   Language: JavaScript | Stars: 157 | Forks: 36
+   Created: 2012-09-26T14:52:55Z | Updated: 2025-09-15T13:16:44Z
+--------------------------------------------------
+61. luontola/tdd-tetris-tutorial (GitHub)
+   URL: https://github.com/luontola/tdd-tetris-tutorial
+   Description: Exercise for learning Test-Driven Development with the help of predefined tests
+   Language: Java | Stars: 404 | Forks: 130
+   Created: 2009-04-26T12:52:40Z | Updated: 2025-10-10T08:11:24Z
+   Topics: java, tdd, tutorial
+--------------------------------------------------
+62. jingangxin36/Tetris (GitHub)
+   URL: https://github.com/jingangxin36/Tetris
+   Description: 俄罗斯方块, unity, MVC, DOTween
+   Language: C# | Stars: 198 | Forks: 64
+   Created: 2018-05-11T12:59:35Z | Updated: 2025-09-28T06:04:22Z
+   Topics: tetris, unity3d
+--------------------------------------------------
+63. kt97679/tetris (GitHub)
+   URL: https://github.com/kt97679/tetris
+   Description: Tetris game implemented in languages I used for something more serious than "Hello world".
+   Language: Shell | Stars: 114 | Forks: 79
+   Created: 2013-09-02T07:33:35Z | Updated: 2025-07-19T19:18:51Z
+--------------------------------------------------
+64. fridek/Threejs-Tetris (GitHub)
+   URL: https://github.com/fridek/Threejs-Tetris
+   Description: 3D Tetris implementation in WebGL
+   Language: JavaScript | Stars: 81 | Forks: 28
+   Created: 2012-02-10T18:47:36Z | Updated: 2022-08-28T14:41:56Z
+--------------------------------------------------
+65. Gregwar/ASCII-Tetris (GitHub)
+   URL: https://github.com/Gregwar/ASCII-Tetris
+   Description: ASCII Tetris game written in C
+   Language: C | Stars: 80 | Forks: 34
+   Created: 2010-08-17T12:22:40Z | Updated: 2025-10-18T17:22:10Z
+--------------------------------------------------
+66. CodeExplainedRepo/Tetris-JavaScript (GitHub)
+   URL: https://github.com/CodeExplainedRepo/Tetris-JavaScript
+   Description: The Tetris game, created using JavaScript, and The HTML5 canvas.
+   Language: JavaScript | Stars: 96 | Forks: 63
+   Created: 2018-07-30T15:12:28Z | Updated: 2025-07-13T16:53:20Z
+--------------------------------------------------
+67. ovidiuch/flatris (GitHub)
+   URL: https://github.com/ovidiuch/flatris
+   Description: Fast-paced two-player web game
+   Language: JavaScript | Stars: 1484 | Forks: 5661
+   Created: 2014-06-15T11:02:01Z | Updated: 2025-10-18T06:48:49Z
+   Topics: game, offline, pwa, react, redux, tetris
+--------------------------------------------------
+68. Kofybrek/Tetris (GitHub)
+   URL: https://github.com/Kofybrek/Tetris
+   Description: Classic Tetris game.
+   Language: C++ | Stars: 52 | Forks: 21
+   Created: 2021-07-18T14:44:25Z | Updated: 2025-08-20T08:34:37Z
+--------------------------------------------------
+69. StanislavPetrovV/Python-Tetris (GitHub)
+   URL: https://github.com/StanislavPetrovV/Python-Tetris
+   Description: Tetris using Python and Pygame
+   Language: Python | Stars: 62 | Forks: 28
+   Created: 2020-08-03T09:59:11Z | Updated: 2025-10-23T04:39:14Z
+--------------------------------------------------
+70. DQNEO/CppTetris (GitHub)
+   URL: https://github.com/DQNEO/CppTetris
+   Description: Tetris made within an hour
+   Language: C++ | Stars: 108 | Forks: 22
+   Created: 2012-11-09T15:43:17Z | Updated: 2025-02-26T08:57:39Z
+   Topics: c, game, tetris, windows
+--------------------------------------------------
+71. leognon/tritris (GitHub)
+   URL: https://github.com/leognon/tritris
+   Description: Tetris with triangles!
+   Language: JavaScript | Stars: 74 | Forks: 17
+   Created: 2020-11-09T01:11:55Z | Updated: 2024-02-25T10:14:55Z
+   Topics: game, hacktoberfest, tetris
+--------------------------------------------------
+72. hinesboy/ai_tetris (GitHub)
+   URL: https://github.com/hinesboy/ai_tetris
+   Description: AI 俄罗斯方块（C++）
+   Language: C++ | Stars: 249 | Forks: 87
+   Created: 2017-11-27T10:40:25Z | Updated: 2025-10-20T11:28:24Z
+   Topics: ai, c, pierre, tetris, winapi
+--------------------------------------------------
+73. shaunlebron/t3tr0s-slides (GitHub)
+   URL: https://github.com/shaunlebron/t3tr0s-slides
+   Description: interactive guide to tetris in cljs
+   Language: Clojure | Stars: 272 | Forks: 16
+   Created: 2014-09-01T02:27:52Z | Updated: 2025-06-05T18:09:10Z
+--------------------------------------------------
+74. slugo/redux-tetris (GitHub)
+   URL: https://github.com/slugo/redux-tetris
+   Description: Simple tetris clone made using React + Redux.
+   Language: JavaScript | Stars: 99 | Forks: 29
+   Created: 2016-08-17T04:32:03Z | Updated: 2025-10-01T14:42:32Z
+   Topics: react, redux, redux-tetris, tetris
+--------------------------------------------------
+75. fanux/tetris (GitHub)
+   URL: https://github.com/fanux/tetris
+   Description: c++ terminal tetris game.
+   Language: C++ | Stars: 53 | Forks: 22
+   Created: 2016-12-07T02:33:12Z | Updated: 2025-07-28T11:09:44Z
+--------------------------------------------------
+76. morkro/tetrys (GitHub)
+   URL: https://github.com/morkro/tetrys
+   Description: 𝌶 Tetris as Progressive Web Application
+   Language: JavaScript | Stars: 108 | Forks: 19
+   Created: 2016-05-22T10:37:55Z | Updated: 2025-01-26T04:27:24Z
+   Topics: offline-first, redux, service-worker, tetris, web-app
+--------------------------------------------------
+77. Aj7Ay/Tetris-V1 (GitHub)
+   URL: https://github.com/Aj7Ay/Tetris-V1
+   Description:
+   Language: JavaScript | Stars: 20 | Forks: 315
+   Created: 2023-10-25T12:39:57Z | Updated: 2025-03-21T09:11:48Z
+--------------------------------------------------
+78. andysterks/JS-Tetris (GitHub)
+   URL: https://github.com/andysterks/JS-Tetris
+   Description: Javascript-based Tetris game
+   Language: JavaScript | Stars: 29 | Forks: 27
+   Created: 2015-01-15T13:57:22Z | Updated: 2025-10-03T05:23:32Z
+--------------------------------------------------
+79. imtumbleweed/Tetris (GitHub)
+   URL: https://github.com/imtumbleweed/Tetris
+   Description: On June 6, 2019 Tetris turned 35 years old. To celebrate, I wrote my own version and published it in my GitHub repo. No libraries. No frameworks. Just JavaScript. And no, this is not the best way, nor is it most-optimized version. It's just a simple break down.
+   Language: HTML | Stars: 149 | Forks: 46
+   Created: 2019-07-13T02:21:50Z | Updated: 2025-08-17T02:59:31Z
+--------------------------------------------------
+80. CelestialAmber/TetrisNESDisasm (GitHub)
+   URL: https://github.com/CelestialAmber/TetrisNESDisasm
+   Description: Disassembly of Tetris (NES)
+   Language: Assembly | Stars: 93 | Forks: 16
+   Created: 2019-11-13T12:05:06Z | Updated: 2025-10-21T06:19:32Z
+--------------------------------------------------
+81. witnessmenow/WiFi-Tetris-Clock (GitHub)
+   URL: https://github.com/witnessmenow/WiFi-Tetris-Clock
+   Description: A WiFi clock made of falling tetris blocks. For the ESP8266 or ESP32
+   Language: C++ | Stars: 199 | Forks: 54
+   Created: 2019-05-29T21:08:53Z | Updated: 2025-06-25T19:09:38Z
+--------------------------------------------------
+82. Ashfaque-9x/Tetris-Game-App (GitHub)
+   URL: https://github.com/Ashfaque-9x/Tetris-Game-App
+   Description:
+   Language: JavaScript | Stars: 17 | Forks: 299
+   Created: 2023-08-10T13:17:50Z | Updated: 2025-10-06T09:20:41Z
+--------------------------------------------------
+83. AllenWrong/nand2tetris (GitHub)
+   URL: https://github.com/AllenWrong/nand2tetris
+   Description: 计算机系统要素，从零开始构建现代计算机
+   Language: Hack | Stars: 622 | Forks: 59
+   Created: 2020-01-14T13:41:04Z | Updated: 2025-10-22T11:28:52Z
+--------------------------------------------------
+84. mykola-dev/Tetris (GitHub)
+   URL: https://github.com/mykola-dev/Tetris
+   Description: The well known brick game written with Kotlin Multiplatform and Jetpack Compose Multiplatform.
+   Language: JavaScript | Stars: 204 | Forks: 36
+   Created: 2017-11-05T21:53:39Z | Updated: 2025-10-11T05:58:00Z
+   Topics: android, android-game, compose-desktop, game, java-game, jetpack-compose, kotlin, kotlin-multiplatform, tetris, tetris-game, wasm
+--------------------------------------------------
+85. jjinux/gotetris (GitHub)
+   URL: https://github.com/jjinux/gotetris
+   Description: This is a console-based version of Tetris written in Go
+   Language: Go | Stars: 265 | Forks: 30
+   Created: 2015-05-23T21:24:16Z | Updated: 2025-06-03T05:04:23Z
+--------------------------------------------------
+86. greerviau/TetrisAI (GitHub)
+   URL: https://github.com/greerviau/TetrisAI
+   Description: A neural network that is trained with a genetic algorithm to predict the next best move in Tetris
+   Language: Processing | Stars: 116 | Forks: 30
+   Created: 2020-04-01T22:36:00Z | Updated: 2025-08-09T15:12:01Z
+--------------------------------------------------
+87. infusion/HTML5-Tetris (GitHub)
+   URL: https://github.com/infusion/HTML5-Tetris
+   Description: A HTML5 Tetris Implementation
+   Language: JavaScript | Stars: 45 | Forks: 20
+   Created: 2014-04-08T20:00:32Z | Updated: 2024-10-08T08:19:43Z
+--------------------------------------------------
+88. injekim/PYTRIS (GitHub)
+   URL: https://github.com/injekim/PYTRIS
+   Description: Tetris made with pygame
+   Language: Python | Stars: 35 | Forks: 20
+   Created: 2017-05-11T06:26:05Z | Updated: 2025-04-05T15:06:55Z
+   Topics: arcade-game, game, pygame, python, python3, tetris
+--------------------------------------------------
+89. brandly/react-tetris (GitHub)
+   URL: https://github.com/brandly/react-tetris
+   Description: :video_game: by popular demand
+   Language: TypeScript | Stars: 141 | Forks: 74
+   Created: 2014-12-03T07:30:48Z | Updated: 2025-09-08T08:02:00Z
+   Topics: hacktoberfest
+--------------------------------------------------
+90. programble/tetrasm (GitHub)
+   URL: https://github.com/programble/tetrasm
+   Description: Tetris for x86 in NASM
+   Language: Assembly | Stars: 128 | Forks: 13
+   Created: 2015-06-14T05:26:28Z | Updated: 2025-04-28T09:44:55Z
+--------------------------------------------------
+91. exceptionnotfound/BlazorGames (GitHub)
+   URL: https://github.com/exceptionnotfound/BlazorGames
+   Description: Solitaire, Minesweeper, ConnectFour, Tetris, Blackjack, Conway's Game of Life, and more, all written in Blazor WebAssembly.
+   Language: HTML | Stars: 229 | Forks: 69
+   Created: 2020-05-29T17:10:14Z | Updated: 2025-10-18T08:43:11Z
+--------------------------------------------------
+92. mjftw/Tetrex (GitHub)
+   URL: https://github.com/mjftw/Tetrex
+   Description: Yet another Tetris game, because everyone loves Tetris!
+   Language: Elixir | Stars: 49 | Forks: 12
+   Created: 2022-07-30T07:40:07Z | Updated: 2025-08-06T13:47:39Z
+   Topics: elixir, elixir-phoenix, otp, tetris, tetris-game
+--------------------------------------------------
+93. Lallassu/bintris (GitHub)
+   URL: https://github.com/Lallassu/bintris
+   Description: Binary Tetris
+   Language: Go | Stars: 164 | Forks: 7
+   Created: 2021-10-11T15:12:36Z | Updated: 2025-02-04T11:44:25Z
+   Topics: android, game, go, golang, gomobile, mobile, mobile-game, openal, opengl
+--------------------------------------------------
+94. toblum/TetrisAnimation (GitHub)
+   URL: https://github.com/toblum/TetrisAnimation
+   Description: Library to draw numbers on a LED matrix in a tetris style
+   Language: C | Stars: 136 | Forks: 23
+   Created: 2018-06-15T09:39:33Z | Updated: 2025-09-29T22:48:52Z
+--------------------------------------------------
+95. nsf/gotris (GitHub)
+   URL: https://github.com/nsf/gotris
+   Description: A classic tetris game written in Go programming language
+   Language: Go | Stars: 91 | Forks: 27
+   Created: 2010-06-18T18:50:18Z | Updated: 2025-10-10T21:30:11Z
+--------------------------------------------------
+96. xctom/Nand2Tetris (GitHub)
+   URL: https://github.com/xctom/Nand2Tetris
+   Description: All projects for Nand2Teris
+   Language: Assembly | Stars: 156 | Forks: 80
+   Created: 2014-12-10T08:46:59Z | Updated: 2025-10-05T05:14:55Z
+--------------------------------------------------
+97. xuu/wasm-tetris (GitHub)
+   URL: https://github.com/xuu/wasm-tetris
+   Description: Wasm Tetris
+   Language: Rust | Stars: 86 | Forks: 9
+   Created: 2018-04-22T14:12:43Z | Updated: 2025-01-09T09:55:30Z
+   Topics: rust, tetris, wasm, webassembly
+--------------------------------------------------
+98. NightsWatchGames/tetris (GitHub)
+   URL: https://github.com/NightsWatchGames/tetris
+   Description: Classical tetris game made with bevy engine.
+   Language: Rust | Stars: 110 | Forks: 18
+   Created: 2022-11-21T05:01:33Z | Updated: 2025-08-09T19:00:19Z
+   Topics: bevy, game, rust, tetris
+--------------------------------------------------
+99. javafx-dev/JavaFX-Tetris-Clone (GitHub)
+   URL: https://github.com/javafx-dev/JavaFX-Tetris-Clone
+   Description: JavaFX Tetris game clone written in Java 8
+   Language: Java | Stars: 45 | Forks: 32
+   Created: 2014-06-29T19:37:13Z | Updated: 2025-07-07T14:28:24Z
+   Topics: game, java, javfx, tetris, tetris-game
+--------------------------------------------------
+100. evankale/debtris (GitHub)
+   URL: https://github.com/evankale/debtris
+   Description: A Photoshop script that plays Tetris.
+   Language: C# | Stars: 94 | Forks: 16
+   Created: 2019-11-04T16:20:39Z | Updated: 2025-09-04T14:04:00Z
+--------------------------------------------------
+101. mmisono/bpftrace-tetris (GitHub)
+   URL: https://github.com/mmisono/bpftrace-tetris
+   Description: Tetris in bpftrace
+   Language: Shell | Stars: 106 | Forks: 9
+   Created: 2019-12-04T21:24:21Z | Updated: 2025-09-05T14:58:32Z
+   Topics: bpf, bpftrace
+--------------------------------------------------
+102. Uglemat/MaTris (GitHub)
+   URL: https://github.com/Uglemat/MaTris
+   Description: A clone of Tetris made using pygame
+   Language: Python | Stars: 50 | Forks: 25
+   Created: 2013-05-17T13:49:18Z | Updated: 2025-06-22T00:03:45Z
+--------------------------------------------------
+103. robsoncouto/gm328a_rev_eng (GitHub)
+   URL: https://github.com/robsoncouto/gm328a_rev_eng
+   Description: Reverse engineering of the gm328a transistor tester + Tetris
+   Language: C | Stars: 53 | Forks: 29
+   Created: 2018-10-12T20:49:58Z | Updated: 2025-04-20T15:19:24Z
+--------------------------------------------------
+104. Aj7Ay/Tetris-manifest (GitHub)
+   URL: https://github.com/Aj7Ay/Tetris-manifest
+   Description:
+   Language: Unknown | Stars: 11 | Forks: 172
+   Created: 2023-10-25T16:25:06Z | Updated: 2025-01-27T12:02:53Z
+--------------------------------------------------
+105. tashaxing/QtTetris (GitHub)
+   URL: https://github.com/tashaxing/QtTetris
+   Description: A tetris game written in Qt
+   Language: C++ | Stars: 50 | Forks: 20
+   Created: 2015-05-25T02:52:10Z | Updated: 2025-06-23T02:56:25Z
+--------------------------------------------------
+106. misterhat/tetrio-bot (GitHub)
+   URL: https://github.com/misterhat/tetrio-bot
+   Description: tetris bot to automatically play tetr.io
+   Language: JavaScript | Stars: 34 | Forks: 28
+   Created: 2021-01-24T19:02:14Z | Updated: 2025-10-17T03:59:29Z
+   Topics: automation, bot, nodejs, robotjs, tetrio, tetris, tetris-bots
+--------------------------------------------------
+107. yongye/shell (GitHub)
+   URL: https://github.com/yongye/shell
+   Description: Tetris Game // The Art Of Shell Programming
+   Language: Unknown | Stars: 49 | Forks: 21
+   Created: 2012-12-11T17:14:36Z | Updated: 2025-10-04T17:33:37Z
+--------------------------------------------------
+108. joshvera/iPhone-Tetris (GitHub)
+   URL: https://github.com/joshvera/iPhone-Tetris
+   Description: A little iPhone tetris game written with cocos2d
+   Language: Objective-C | Stars: 57 | Forks: 24
+   Created: 2009-09-28T21:30:34Z | Updated: 2025-01-13T16:13:48Z
+--------------------------------------------------
+109. HelloClyde/Tetris-Swing (GitHub)
+   URL: https://github.com/HelloClyde/Tetris-Swing
+   Description: Swing编写的俄罗斯方块
+   Language: Java | Stars: 89 | Forks: 61
+   Created: 2016-06-27T00:58:55Z | Updated: 2025-08-25T01:25:13Z
+--------------------------------------------------
+110. cucer-castellano/Tetris (GitHub)
+   URL: https://github.com/cucer-castellano/Tetris
+   Description:
+   Language: Kotlin | Stars: 6 | Forks: 103
+   Created: 2022-12-13T13:25:39Z | Updated: 2025-01-19T14:04:17Z
+   Topics: advanced, android, architecture, game, game-development, games, kotlin, kotlin-android, medium, mvvm, simple, tetris, tutorial
+--------------------------------------------------
+111. bsamek/Tetris (GitHub)
+   URL: https://github.com/bsamek/Tetris
+   Description: Python/Tkinter Tetris
+   Language: Python | Stars: 17 | Forks: 18
+   Created: 2011-07-20T20:21:23Z | Updated: 2023-09-14T13:31:46Z
+--------------------------------------------------
+112. jstimpfle/tetris-on-a-plane (GitHub)
+   URL: https://github.com/jstimpfle/tetris-on-a-plane
+   Description:
+   Language: JavaScript | Stars: 346 | Forks: 58
+   Created: 2016-10-31T11:01:55Z | Updated: 2025-09-10T15:48:19Z
+--------------------------------------------------
+113. AJRussell/Tiny-Tetris (GitHub)
+   URL: https://github.com/AJRussell/Tiny-Tetris
+   Description: Tetris Clone with OLED SSD1306(I2C) for Arduino Nano / Uno
+   Language: C++ | Stars: 82 | Forks: 27
+   Created: 2016-09-17T16:39:55Z | Updated: 2025-10-18T00:41:40Z
+--------------------------------------------------
+114. lusob/gym-tetris (GitHub)
+   URL: https://github.com/lusob/gym-tetris
+   Description: Tetris OpenAI environment
+   Language: Python | Stars: 28 | Forks: 14
+   Created: 2016-08-18T15:30:11Z | Updated: 2024-03-20T05:10:34Z
+--------------------------------------------------
+115. doktorocelot/tetralegends (GitHub)
+   URL: https://github.com/doktorocelot/tetralegends
+   Description: Tetris clone in HTML5
+   Language: JavaScript | Stars: 14 | Forks: 22
+   Created: 2019-09-30T01:24:29Z | Updated: 2025-10-02T11:48:08Z
+--------------------------------------------------
+116. alec-gibson/nvim-tetris (GitHub)
+   URL: https://github.com/alec-gibson/nvim-tetris
+   Description: Bringing emacs' greatest feature to neovim - Tetris!
+   Language: Lua | Stars: 207 | Forks: 11
+   Created: 2021-03-13T23:52:56Z | Updated: 2025-10-14T09:12:46Z
+   Topics: aniseed, fennel, game, lua, neovim, neovim-plugin, tetris
+--------------------------------------------------
+117. Code-Bullet/Tetris-AI-Javascript (GitHub)
+   URL: https://github.com/Code-Bullet/Tetris-AI-Javascript
+   Description:
+   Language: JavaScript | Stars: 150 | Forks: 60
+   Created: 2020-06-02T05:28:25Z | Updated: 2025-10-18T05:02:30Z
+--------------------------------------------------
+118. tdd-elevator-training/tetris (GitHub)
+   URL: https://github.com/tdd-elevator-training/tetris
+   Description:
+   Language: Java | Stars: 11 | Forks: 73
+   Created: 2012-02-18T11:21:59Z | Updated: 2018-07-12T20:11:27Z
+--------------------------------------------------
+119. daltonridenhour/DOM-Tetris (GitHub)
+   URL: https://github.com/daltonridenhour/DOM-Tetris
+   Description: A JavaScript implementation of Tetris.
+   Language: JavaScript | Stars: 35 | Forks: 17
+   Created: 2009-05-24T17:40:07Z | Updated: 2021-02-02T14:13:11Z
+--------------------------------------------------
+120. nullobject/tetris (GitHub)
+   URL: https://github.com/nullobject/tetris
+   Description: A clone of the popular game Tetris.
+   Language: JavaScript | Stars: 101 | Forks: 14
+   Created: 2017-12-18T10:47:45Z | Updated: 2025-10-03T05:59:01Z
+   Topics: functional-programming, game, javascript, reactive-programming, tetris
+--------------------------------------------------
+121. jaybutera/tetrisRL (GitHub)
+   URL: https://github.com/jaybutera/tetrisRL
+   Description: A Tetris environment to train machine learning agents
+   Language: Python | Stars: 71 | Forks: 19
+   Created: 2017-08-11T23:43:54Z | Updated: 2025-10-05T16:46:33Z
+   Topics: game, machine-learning, reinforcement-learning, supervised-learning
+--------------------------------------------------
+122. alexsteb/tetris_disassembly (GitHub)
+   URL: https://github.com/alexsteb/tetris_disassembly
+   Description: Disassembly of Tetris (Gameboy)
+   Language: Assembly | Stars: 43 | Forks: 13
+   Created: 2018-06-07T03:30:59Z | Updated: 2025-09-22T02:01:37Z
+--------------------------------------------------
+123. jserv/auto-tetris (GitHub)
+   URL: https://github.com/jserv/auto-tetris
+   Description: Play Tetris game automatically!
+   Language: C | Stars: 60 | Forks: 11
+   Created: 2022-11-24T21:44:34Z | Updated: 2025-09-28T03:06:12Z
+   Topics: artificial-intelligence, terminal-based, tetris-clone
+--------------------------------------------------
+124. k0kubun/tetris (GitHub)
+   URL: https://github.com/k0kubun/tetris
+   Description: TETRIS for your terminal
+   Language: Go | Stars: 76 | Forks: 10
+   Created: 2014-06-15T02:54:09Z | Updated: 2023-03-01T16:21:52Z
+--------------------------------------------------
+125. knewjade/solution-finder (GitHub)
+   URL: https://github.com/knewjade/solution-finder
+   Description: Tetris: Find perfect clears, combos, T-spins
+   Language: Java | Stars: 110 | Forks: 13
+   Created: 2017-04-08T07:31:59Z | Updated: 2025-09-29T05:10:03Z
+   Topics: tetris
+--------------------------------------------------
+126. hiddenviewer/Swiftris (GitHub)
+   URL: https://github.com/hiddenviewer/Swiftris
+   Description: Swift version Tetris game.
+   Language: Swift | Stars: 53 | Forks: 11
+   Created: 2015-12-23T16:10:27Z | Updated: 2025-04-12T11:08:12Z
+--------------------------------------------------
+127. johan92/yafpgatetris (GitHub)
+   URL: https://github.com/johan92/yafpgatetris
+   Description: Yet Another Tetris on FPGA Implementation
+   Language: Verilog | Stars: 38 | Forks: 17
+   Created: 2015-01-08T16:08:33Z | Updated: 2024-06-29T22:07:06Z
+   Topics: de1-soc, fpga, fpga-game, systemverilog, tetris, verilog
+--------------------------------------------------
+128. Elevista/vue-tetris (GitHub)
+   URL: https://github.com/Elevista/vue-tetris
+   Description: Vue Tetris 🏰
+   Language: Vue | Stars: 45 | Forks: 10
+   Created: 2018-02-11T21:06:23Z | Updated: 2025-01-19T05:03:37Z
+--------------------------------------------------
+129. ryukinix/tetris (GitHub)
+   URL: https://github.com/ryukinix/tetris
+   Description: A simple tetris made in Unity
+   Language: C# | Stars: 27 | Forks: 20
+   Created: 2017-07-28T23:06:07Z | Updated: 2025-02-28T07:08:33Z
+   Topics: game, gamedev, tetris, tetris-game, unity, unity3d
+--------------------------------------------------
+130. educ8s/Python-Tetris-Game-Pygame (GitHub)
+   URL: https://github.com/educ8s/Python-Tetris-Game-Pygame
+   Description: Python Tetris Game with pygame with a video tutorial explaining each line.
+   Language: Python | Stars: 54 | Forks: 37
+   Created: 2023-03-30T16:42:27Z | Updated: 2025-10-23T12:11:59Z
+   Topics: pygame, pygame-ce, pygame-game, pygame-games, python, python-game, python-games, python-snake
+--------------------------------------------------
+131. deepgrace/tetris (GitHub)
+   URL: https://github.com/deepgrace/tetris
+   Description: Stunning Tetris in all kinds of Languages (C, C++, Go, Shell)♦️
+   Language: C | Stars: 79 | Forks: 27
+   Created: 2017-08-14T12:03:24Z | Updated: 2025-10-03T13:13:46Z
+   Topics: c, cpp, go, rust, shell, tetris
+--------------------------------------------------
+132. wiebow/tetris.c64 (GitHub)
+   URL: https://github.com/wiebow/tetris.c64
+   Description: Tetris in 6502 for the Commodore 64
+   Language: Assembly | Stars: 94 | Forks: 13
+   Created: 2015-02-20T08:46:43Z | Updated: 2025-03-26T15:21:41Z
+   Topics: assembly-6502, commodore-64, kickassembler, tetris
+--------------------------------------------------
+133. ZetrisAI/Zetris (GitHub)
+   URL: https://github.com/ZetrisAI/Zetris
+   Description: Zetris - MisaMino-based Tetris AI for Puyo Puyo Tetris
+   Language: C# | Stars: 79 | Forks: 7
+   Created: 2018-09-10T15:09:12Z | Updated: 2025-10-16T09:56:52Z
+--------------------------------------------------
+134. clockman22/swiftris (GitHub)
+   URL: https://github.com/clockman22/swiftris
+   Description: A Tetris clone made in Swift.
+   Language: Unknown | Stars: 0 | Forks: 79
+   Created: 2014-08-07T01:45:17Z | Updated: 2014-08-06T06:52:45Z
+--------------------------------------------------
+135. cgolden15/tetris (GitHub)
+   URL: https://github.com/cgolden15/tetris
+   Description: Robust version of Twitch Tetris. Created to bypass school blocks & to add a few updates of my own. There actually is a readme, just scroll down...
+   Language: JavaScript | Stars: 8 | Forks: 71
+   Created: 2022-02-17T22:56:31Z | Updated: 2025-08-10T06:43:50Z
+   Topics: games, html, javascript, js, tetris
+--------------------------------------------------
+136. michowski/tetris-light (GitHub)
+   URL: https://github.com/michowski/tetris-light
+   Description: Ultra light tetris game in HTML5.
+   Language: HTML | Stars: 36 | Forks: 17
+   Created: 2016-07-23T22:59:24Z | Updated: 2025-10-16T10:29:57Z
+--------------------------------------------------
+137. PKUFlyingPig/NandToTetris (GitHub)
+   URL: https://github.com/PKUFlyingPig/NandToTetris
+   Description: all the course resources and my completion for all the projects
+   Language: Hack | Stars: 210 | Forks: 41
+   Created: 2020-06-18T15:08:18Z | Updated: 2025-10-17T09:28:23Z
+--------------------------------------------------
+138. xilingyuli/Tetris (GitHub)
+   URL: https://github.com/xilingyuli/Tetris
+   Description: 俄罗斯方块，Java大作业
+   Language: Java | Stars: 49 | Forks: 31
+   Created: 2015-09-02T15:44:41Z | Updated: 2025-07-15T08:41:22Z
+--------------------------------------------------
+139. StanislavPetrovV/Tetris (GitHub)
+   URL: https://github.com/StanislavPetrovV/Tetris
+   Description: Tetris with Pygame
+   Language: Python | Stars: 17 | Forks: 14
+   Created: 2022-12-22T14:18:21Z | Updated: 2025-06-02T04:19:13Z
+--------------------------------------------------
+140. ravi-ojha/Terminal-Tetris (GitHub)
+   URL: https://github.com/ravi-ojha/Terminal-Tetris
+   Description: Terminal based Tetris game written in python
+   Language: Python | Stars: 16 | Forks: 27
+   Created: 2016-01-20T17:43:35Z | Updated: 2025-08-19T07:17:44Z
+--------------------------------------------------
+141. natzcam/TetrisBot (GitHub)
+   URL: https://github.com/natzcam/TetrisBot
+   Description: Tetris Bot for tetris battle games
+   Language: Java | Stars: 17 | Forks: 10
+   Created: 2014-02-27T07:15:10Z | Updated: 2024-01-09T02:53:54Z
+--------------------------------------------------
+142. Aj7Ay/Tetris-V2 (GitHub)
+   URL: https://github.com/Aj7Ay/Tetris-V2
+   Description:
+   Language: JavaScript | Stars: 8 | Forks: 156
+   Created: 2023-10-25T12:27:33Z | Updated: 2025-01-27T14:01:04Z
+--------------------------------------------------
+143. michiel-cox/Tetris-DQN (GitHub)
+   URL: https://github.com/michiel-cox/Tetris-DQN
+   Description: Tetris with a Deep Q Network.
+   Language: Python | Stars: 43 | Forks: 14
+   Created: 2019-10-05T12:44:03Z | Updated: 2025-09-09T12:17:32Z
+   Topics: deep-q-network, machine-learning, neural-network, python, tensorflow
+--------------------------------------------------
+144. jcollard/elmtris (GitHub)
+   URL: https://github.com/jcollard/elmtris
+   Description: A Tetris game for the web browser written in Elm
+   Language: Elm | Stars: 132 | Forks: 16
+   Created: 2013-10-19T15:18:27Z | Updated: 2024-10-10T16:10:45Z
+--------------------------------------------------
+145. yongye/c (GitHub)
+   URL: https://github.com/yongye/c
+   Description: Tetris Game // Generalized Tetris in C
+   Language: Unknown | Stars: 11 | Forks: 12
+   Created: 2013-11-17T12:24:52Z | Updated: 2024-01-07T15:01:06Z
+--------------------------------------------------
+146. jonhoo/tetris-tutorial (GitHub)
+   URL: https://github.com/jonhoo/tetris-tutorial
+   Description: From rags to riches; building Tetris with no programming experience.
+   Language: JavaScript | Stars: 80 | Forks: 18
+   Created: 2014-12-17T19:15:11Z | Updated: 2024-11-25T08:20:05Z
+   Topics: game-development, html, javascript, learn-to-code, tetris, tutorial
+--------------------------------------------------
+147. ielashi/eltetris (GitHub)
+   URL: https://github.com/ielashi/eltetris
+   Description: Tetris AI
+   Language: JavaScript | Stars: 52 | Forks: 8
+   Created: 2011-08-14T00:29:44Z | Updated: 2025-09-25T09:00:09Z
+--------------------------------------------------
+148. eliangcs/tetris-win32 (GitHub)
+   URL: https://github.com/eliangcs/tetris-win32
+   Description: Classic tetris game on Win32 API
+   Language: C++ | Stars: 37 | Forks: 15
+   Created: 2014-02-16T16:50:02Z | Updated: 2025-10-24T01:07:40Z
+--------------------------------------------------
+149. osnr/tetris (GitHub)
+   URL: https://github.com/osnr/tetris
+   Description: :memo: Disassembly of Tetris for Game Boy.
+   Language: Assembly | Stars: 82 | Forks: 12
+   Created: 2017-07-01T10:20:02Z | Updated: 2025-04-29T00:51:28Z
+--------------------------------------------------
+150. nickmpaz/tiny-tetris (GitHub)
+   URL: https://github.com/nickmpaz/tiny-tetris
+   Description: A Python Tetris implementation that "fits on a business card" (20 lines x 80 characters)
+   Language: Python | Stars: 183 | Forks: 28
+   Created: 2019-06-01T23:20:12Z | Updated: 2024-10-08T23:10:36Z
+--------------------------------------------------
+151. QuestForTetris/QFT (GitHub)
+   URL: https://github.com/QuestForTetris/QFT
+   Description: A repository for the Quest For Tetris
+   Language: Python | Stars: 183 | Forks: 8
+   Created: 2017-07-29T18:43:04Z | Updated: 2025-07-16T13:45:50Z
+--------------------------------------------------
+152. dombeef/pockeTETRIS (GitHub)
+   URL: https://github.com/dombeef/pockeTETRIS
+   Description: Compact Tetris clone
+   Language: C++ | Stars: 29 | Forks: 11
+   Created: 2017-07-18T20:59:30Z | Updated: 2024-09-01T11:41:51Z
+--------------------------------------------------
+153. vladcc/Tetris-OS (GitHub)
+   URL: https://github.com/vladcc/Tetris-OS
+   Description: Tetris running on bare x86 hardware
+   Language: C | Stars: 38 | Forks: 14
+   Created: 2016-09-02T03:17:35Z | Updated: 2025-09-21T03:40:28Z
+--------------------------------------------------
+154. Gaspared/tetris (GitHub)
+   URL: https://github.com/Gaspared/tetris
+   Description: Tetris Game in JavaFX
+   Language: Java | Stars: 21 | Forks: 13
+   Created: 2019-03-22T09:49:29Z | Updated: 2025-05-28T22:04:28Z
+--------------------------------------------------
+155. hauxir/haskell-tetris (GitHub)
+   URL: https://github.com/hauxir/haskell-tetris
+   Description: Tetris game written in Haskell using ncurses
+   Language: Haskell | Stars: 72 | Forks: 12
+   Created: 2014-12-08T15:52:25Z | Updated: 2024-01-02T02:09:12Z
+   Topics: functional-programming, haskell, haskell-ncurses, ncurses, tetris
+--------------------------------------------------
+156. verinaarmelia/Tetris (GitHub)
+   URL: https://github.com/verinaarmelia/Tetris
+   Description: Tetris' Code in Java
+   Language: Java | Stars: 4 | Forks: 27
+   Created: 2019-04-22T13:55:22Z | Updated: 2024-05-25T12:06:30Z
+--------------------------------------------------
+157. ContentsViewer/shtris (GitHub)
+   URL: https://github.com/ContentsViewer/shtris
+   Description: The pure shell script (sh) that implements the Tetris game following the Tetris Guideline (2009).
+   Language: Shell | Stars: 83 | Forks: 9
+   Created: 2020-05-21T13:37:25Z | Updated: 2025-10-19T15:45:47Z
+   Topics: bash, sh, shell, tetris
+--------------------------------------------------
+158. sacert/Quick-Tetris (GitHub)
+   URL: https://github.com/sacert/Quick-Tetris
+   Description: Built a quick version of Tetris.
+   Language: JavaScript | Stars: 70 | Forks: 10
+   Created: 2016-11-03T05:46:52Z | Updated: 2020-03-19T21:29:52Z
+--------------------------------------------------
+159. DraphonyGames/tetris-unity (GitHub)
+   URL: https://github.com/DraphonyGames/tetris-unity
+   Description: A Tetris clone created with Unity.
+   Language: C# | Stars: 17 | Forks: 19
+   Created: 2013-07-03T18:11:59Z | Updated: 2024-11-11T09:30:30Z
+--------------------------------------------------
+160. educ8s/Cpp-Tetris-Game-with-raylib (GitHub)
+   URL: https://github.com/educ8s/Cpp-Tetris-Game-with-raylib
+   Description: C++ Tetris Game with raylib with a video tutorial explaining each line.
+   Language: C++ | Stars: 101 | Forks: 23
+   Created: 2023-05-11T06:01:02Z | Updated: 2025-10-18T21:56:44Z
+   Topics: cpp-game, cpp-game-tetris, cpp-games, cpp-project, raylib, raylib-cpp, raylib-examples, raylib-game, tetris, tetris-clone, tetris-game
+--------------------------------------------------
+161. rajatdiptabiswas/tetris-pygame (GitHub)
+   URL: https://github.com/rajatdiptabiswas/tetris-pygame
+   Description: :video_game: Tetris game made with the Pygame library in Python
+   Language: Python | Stars: 14 | Forks: 44
+   Created: 2018-12-15T16:01:53Z | Updated: 2025-09-10T23:20:38Z
+   Topics: pycharm, pygame, python, tetris, tetris-game
+--------------------------------------------------
+162. yubo725/flutter-tetris (GitHub)
+   URL: https://github.com/yubo725/flutter-tetris
+   Description: 基于Flutter的俄罗斯方块小游戏
+   Language: Dart | Stars: 128 | Forks: 30
+   Created: 2018-08-07T08:04:46Z | Updated: 2025-04-10T10:59:03Z
+   Topics: android, app, dart, flutter, ios
+--------------------------------------------------
+163. andrew-wilkes/tetron (GitHub)
+   URL: https://github.com/andrew-wilkes/tetron
+   Description: A Tetris clone produced using Godot Engine.
+   Language: GDScript | Stars: 32 | Forks: 16
+   Created: 2019-10-29T06:15:26Z | Updated: 2025-10-03T18:28:26Z
+--------------------------------------------------
+164. jcoglan/nand2tetris (GitHub)
+   URL: https://github.com/jcoglan/nand2tetris
+   Description: Solutions for http://www.nand2tetris.org/
+   Language: Assembly | Stars: 86 | Forks: 44
+   Created: 2013-04-30T12:47:22Z | Updated: 2025-10-21T12:17:14Z
+--------------------------------------------------
+165. z-korp/zkube (GitHub)
+   URL: https://github.com/z-korp/zkube
+   Description: Dojo game - Tetris like
+   Language: TypeScript | Stars: 10 | Forks: 17
+   Created: 2024-05-15T12:54:46Z | Updated: 2025-06-14T11:50:45Z
+--------------------------------------------------
+166. professor-l/classic-tetris-project (GitHub)
+   URL: https://github.com/professor-l/classic-tetris-project
+   Description: A Discord and twitch bot for Classic Tetris Monthly
+   Language: Python | Stars: 24 | Forks: 24
+   Created: 2019-07-17T02:37:54Z | Updated: 2025-08-20T16:04:20Z
+--------------------------------------------------
+167. jtsiomb/termtris (GitHub)
+   URL: https://github.com/jtsiomb/termtris
+   Description: Tetris game for terminals
+   Language: C | Stars: 42 | Forks: 9
+   Created: 2019-02-11T09:17:07Z | Updated: 2025-10-03T15:10:19Z
+   Topics: ansi, dos, terminal, terminal-game, tetris, unix, vt100, vt52
+--------------------------------------------------
+168. ttencate/tis (GitHub)
+   URL: https://github.com/ttencate/tis
+   Description: An embeddable Tetris clone without dependencies in 4 kB of JavaScript
+   Language: JavaScript | Stars: 137 | Forks: 15
+   Created: 2014-10-19T15:09:33Z | Updated: 2025-06-30T02:25:39Z
+--------------------------------------------------
+169. melcor76/ng-tetris (GitHub)
+   URL: https://github.com/melcor76/ng-tetris
+   Description: Check out the article on Angular In Depth
+   Language: TypeScript | Stars: 57 | Forks: 37
+   Created: 2019-09-02T20:04:12Z | Updated: 2025-09-28T15:14:47Z
+   Topics: angular, tetris
+--------------------------------------------------
+170. KonradSchieban/tetris (GitHub)
+   URL: https://github.com/KonradSchieban/tetris
+   Description: Tetris game for the Browser in JavaScript
+   Language: JavaScript | Stars: 2 | Forks: 51
+   Created: 2017-12-08T03:23:37Z | Updated: 2025-10-03T05:48:04Z
+--------------------------------------------------
+171. GregoryCannon/StackRabbit (GitHub)
+   URL: https://github.com/GregoryCannon/StackRabbit
+   Description: An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
+   Language: C++ | Stars: 448 | Forks: 47
+   Created: 2021-07-05T20:43:41Z | Updated: 2025-10-18T21:10:48Z
+--------------------------------------------------
+172. YuraMihailov123/Tetris-c-sharp (GitHub)
+   URL: https://github.com/YuraMihailov123/Tetris-c-sharp
+   Description: c# tetris
+   Language: C# | Stars: 6 | Forks: 15
+   Created: 2019-12-08T21:08:28Z | Updated: 2024-04-14T07:46:48Z
+--------------------------------------------------
+173. thecardkid/terminally-tetris (GitHub)
+   URL: https://github.com/thecardkid/terminally-tetris
+   Description: It’s everything you could want from a 1984 Russian-made video game, but now without leaving the comfort of your favorite shell!
+   Language: C | Stars: 60 | Forks: 36
+   Created: 2017-03-23T16:17:28Z | Updated: 2025-09-10T10:01:30Z
+   Topics: game, slacker, terminal, tetris
+--------------------------------------------------
+174. jtklier/swiftris (GitHub)
+   URL: https://github.com/jtklier/swiftris
+   Description: tetris clone for educational purposes
+   Language: Swift | Stars: 1 | Forks: 50
+   Created: 2017-06-27T06:00:57Z | Updated: 2019-09-01T18:13:48Z
+--------------------------------------------------
+175. Elanif/NESTRIS (GitHub)
+   URL: https://github.com/Elanif/NESTRIS
+   Description: The most accurate nes tetris clone
+   Language: C++ | Stars: 45 | Forks: 11
+   Created: 2019-04-07T11:48:09Z | Updated: 2025-09-25T20:37:55Z
+   Topics: nes, tetris
+--------------------------------------------------
+176. KuoKuo666/CocosCreator-Tetris (GitHub)
+   URL: https://github.com/KuoKuo666/CocosCreator-Tetris
+   Description: 基于CocosCreator-2.2.2版本开发的俄罗斯方块小游戏，语言TypeScript，注释很全，适合学习用！--KUOKUO
+   Language: TypeScript | Stars: 78 | Forks: 41
+   Created: 2020-03-29T12:22:49Z | Updated: 2025-10-10T11:16:57Z
+--------------------------------------------------
+177. szymor/yatka (GitHub)
+   URL: https://github.com/szymor/yatka
+   Description: yet another tetris klone in action
+   Language: C | Stars: 56 | Forks: 10
+   Created: 2017-01-30T00:31:55Z | Updated: 2024-08-26T08:24:04Z
+--------------------------------------------------
+178. BigShuang/Tetris (GitHub)
+   URL: https://github.com/BigShuang/Tetris
+   Description: 俄罗斯方块教程，基于python tkinter实现
+   Language: Python | Stars: 44 | Forks: 23
+   Created: 2019-12-28T04:59:44Z | Updated: 2025-10-22T13:50:48Z
+--------------------------------------------------
+179. ggomaeng/react-native-tetris (GitHub)
+   URL: https://github.com/ggomaeng/react-native-tetris
+   Description: A pure javascript game written on react-native framework. Brings the childhood memories back!
+   Language: JavaScript | Stars: 145 | Forks: 31
+   Created: 2016-11-24T08:36:12Z | Updated: 2025-08-02T18:22:09Z
+--------------------------------------------------
+180. wojciech-bilicki/TetrisTutorial (GitHub)
+   URL: https://github.com/wojciech-bilicki/TetrisTutorial
+   Description:
+   Language: GDScript | Stars: 29 | Forks: 19
+   Created: 2023-08-06T16:43:15Z | Updated: 2025-09-20T10:06:59Z
+--------------------------------------------------
+181. vitalibo/Brick-Game-9999-in-1 (GitHub)
+   URL: https://github.com/vitalibo/Brick-Game-9999-in-1
+   Description: Simple simulator of famous Brick Game handheld retro gaming console
+   Language: Java | Stars: 129 | Forks: 45
+   Created: 2016-12-04T10:39:47Z | Updated: 2025-10-14T16:03:22Z
+   Topics: brick-game, games, tetris
+--------------------------------------------------
+182. parzibyte/tetris-javascript (GitHub)
+   URL: https://github.com/parzibyte/tetris-javascript
+   Description: Nearly perfect port of Tetris in pure JavaScript / Port casi perfecto del juego de tetris en JavaScript puro
+   Language: JavaScript | Stars: 27 | Forks: 15
+   Created: 2020-10-03T23:54:28Z | Updated: 2025-10-11T18:11:08Z
+   Topics: canvas, game, javascript, port, tetris, tetris-game
+--------------------------------------------------
+183. AmanPathak-DevOps/End-to-End-Kubernetes-DevSecOps-Tetris-Project (GitHub)
+   URL: https://github.com/AmanPathak-DevOps/End-to-End-Kubernetes-DevSecOps-Tetris-Project
+   Description:
+   Language: JavaScript | Stars: 58 | Forks: 180
+   Created: 2024-01-05T15:04:39Z | Updated: 2025-10-18T09:56:21Z
+--------------------------------------------------
+184. BobNobrain/c-sharp-tetris (GitHub)
+   URL: https://github.com/BobNobrain/c-sharp-tetris
+   Description: Just simple tetris game written on C#
+   Language: C# | Stars: 25 | Forks: 15
+   Created: 2016-07-27T21:50:51Z | Updated: 2025-01-18T15:08:02Z
+--------------------------------------------------
+185. spypunk/tetris (GitHub)
+   URL: https://github.com/spypunk/tetris
+   Description: Just another Tetris™ clone
+   Language: Java | Stars: 13 | Forks: 15
+   Created: 2016-07-25T17:31:04Z | Updated: 2025-10-22T16:27:16Z
+   Topics: game, game-2d, game-clone, game-dev, game-development, gamedev, java, java2d, tetris, tetris-game, wtfpl
+--------------------------------------------------
+186. jbreckmckye/nortis (GitHub)
+   URL: https://github.com/jbreckmckye/nortis
+   Description: Tetris clone for PlayStation 1 (PSX)
+   Language: C | Stars: 378 | Forks: 4
+   Created: 2023-09-17T10:03:36Z | Updated: 2025-10-15T02:40:18Z
+   Topics: c, game, playstation, playstation-homebrew, ps1, psnoobsdk, psone, psone-game, psx, retrogaming, tetris-clone
+--------------------------------------------------
+187. shkolovy/tetris-terminal (GitHub)
+   URL: https://github.com/shkolovy/tetris-terminal
+   Description: Tetris in terminal (Python 3)
+   Language: Python | Stars: 15 | Forks: 13
+   Created: 2017-06-29T22:17:07Z | Updated: 2025-10-02T07:05:21Z
+   Topics: courses, python, terminal, tetris
+--------------------------------------------------
+188. shikhin/tetranglix (GitHub)
+   URL: https://github.com/shikhin/tetranglix
+   Description: A bootable 512-byte Tetris clone.
+   Language: Assembly | Stars: 64 | Forks: 8
+   Created: 2013-08-29T17:03:07Z | Updated: 2025-03-20T07:35:51Z
+--------------------------------------------------
+189. kochaika/nand2tetris-hw-2025 (GitHub)
+   URL: https://github.com/kochaika/nand2tetris-hw-2025
+   Description:
+   Language: Hack | Stars: 4 | Forks: 195
+   Created: 2025-02-03T15:03:08Z | Updated: 2025-07-27T01:21:04Z
+--------------------------------------------------
+190. najibghadri/Tetris200lines (GitHub)
+   URL: https://github.com/najibghadri/Tetris200lines
+   Description:
+   Language: C | Stars: 40 | Forks: 16
+   Created: 2017-03-16T11:38:02Z | Updated: 2025-05-31T21:16:24Z
+--------------------------------------------------
+191. DavidGriffith/tint (GitHub)
+   URL: https://github.com/DavidGriffith/tint
+   Description: TINT Is Not Tetris(tm) ...at least the name isn't
+   Language: C | Stars: 51 | Forks: 17
+   Created: 2016-05-26T04:03:57Z | Updated: 2025-10-11T04:58:12Z
+--------------------------------------------------
+192. gfcenter/tetris (GitHub)
+   URL: https://github.com/gfcenter/tetris
+   Description:
+   Language: JavaScript | Stars: 61 | Forks: 15
+   Created: 2023-02-26T11:41:26Z | Updated: 2024-08-29T18:17:39Z
+--------------------------------------------------
+193. nand2tetris/projects (GitHub)
+   URL: https://github.com/nand2tetris/projects
+   Description: Files for Nand to Tetris projects 1-12
+   Language: Assembly | Stars: 25 | Forks: 15
+   Created: 2023-05-11T22:14:03Z | Updated: 2025-10-18T13:09:15Z
+--------------------------------------------------
+194. ylsung/TetrisBattle (GitHub)
+   URL: https://github.com/ylsung/TetrisBattle
+   Description: Reproduced the popular Facebook game -- Tetris Battle! Also provided openAI environments.
+   Language: Python | Stars: 23 | Forks: 17
+   Created: 2019-07-10T15:53:10Z | Updated: 2025-08-20T05:08:10Z
+   Topics: dougle-players, game, rl, rl-algorithm, rl-environment, single-player, tetris-battle
+--------------------------------------------------
+195. Hydeen/TetrisPS (GitHub)
+   URL: https://github.com/Hydeen/TetrisPS
+   Description: Tetris in PowerShell
+   Language: PowerShell | Stars: 2 | Forks: 20
+   Created: 2022-12-06T17:37:30Z | Updated: 2025-09-19T07:16:16Z
+--------------------------------------------------
+196. mbrenman/TetrisPlayground (GitHub)
+   URL: https://github.com/mbrenman/TetrisPlayground
+   Description: A final project for Advanced Machine Learning. Build bots to play against this Tetris Sandbox!
+   Language: C++ | Stars: 172 | Forks: 7
+   Created: 2015-03-07T17:29:40Z | Updated: 2025-05-23T08:50:58Z
+--------------------------------------------------
+197. Aakibgithuber/Tetris-gamev1 (GitHub)
+   URL: https://github.com/Aakibgithuber/Tetris-gamev1
+   Description:
+   Language: JavaScript | Stars: 10 | Forks: 71
+   Created: 2024-01-30T03:39:25Z | Updated: 2025-03-02T01:20:25Z
+--------------------------------------------------
+198. bofeiw/Tetris-Python (GitHub)
+   URL: https://github.com/bofeiw/Tetris-Python
+   Description: Tetris with Pygame and a stupid AI
+   Language: Python | Stars: 21 | Forks: 13
+   Created: 2018-06-08T05:06:21Z | Updated: 2025-04-16T11:11:26Z
+   Topics: game, pygame, python, python3, tetris, tetris-game
+--------------------------------------------------
+199. Arsenic-ATG/Tetris (GitHub)
+   URL: https://github.com/Arsenic-ATG/Tetris
+   Description: Tetris™ clone created in c++ and SDL2
+   Language: C++ | Stars: 23 | Forks: 15
+   Created: 2022-07-19T06:32:06Z | Updated: 2025-10-11T17:14:30Z
+   Topics: cplusplus, cpp, emscripten, game, good-first-issue, goodfirstissue, hacktoberfest, hacktoberfest-accepted, sdl, sdl2, sdl2-ttf, tetris-clone
+--------------------------------------------------
+200. toblum/esp_p10_tetris_clock (GitHub)
+   URL: https://github.com/toblum/esp_p10_tetris_clock
+   Description: A tetris clock based on a 16x32 RGB matrix and a ESP8266
+   Language: C | Stars: 50 | Forks: 17
+   Created: 2018-01-28T16:39:29Z | Updated: 2025-08-04T09:12:57Z
+--------------------------------------------------
+201. stalk-calvin/tetris-game (GitHub)
+   URL: https://github.com/stalk-calvin/tetris-game
+   Description: Tetris Game with Sound in Java
+   Language: Java | Stars: 12 | Forks: 14
+   Created: 2017-05-12T04:06:35Z | Updated: 2024-10-19T03:25:38Z
+   Topics: java, maven, tetris-game
+--------------------------------------------------
+202. odyssjii/tetris (GitHub)
+   URL: https://github.com/odyssjii/tetris
+   Description: Source code for "How to make a full Tetris game in C/C++"
+   Language: C | Stars: 31 | Forks: 19
+   Created: 2019-08-09T19:27:33Z | Updated: 2025-09-24T13:51:40Z
+--------------------------------------------------
+203. Nakilon/rbtris (GitHub)
+   URL: https://github.com/Nakilon/rbtris
+   Description: Tetris game powered by Ruby2D
+   Language: Ruby | Stars: 63 | Forks: 6
+   Created: 2019-05-09T18:00:28Z | Updated: 2024-07-11T00:31:46Z
+   Topics: retro, retrogaming, ruby2d, tetris, tetris-game
+--------------------------------------------------
+204. Tetris-Duel-Team/Tetris-Duel (GitHub)
+   URL: https://github.com/Tetris-Duel-Team/Tetris-Duel
+   Description: Multiplayer Tetris for Raspberry Pi (in bare metal assembly)
+   Language: Assembly | Stars: 66 | Forks: 10
+   Created: 2014-06-22T14:23:25Z | Updated: 2025-01-26T11:13:36Z
+--------------------------------------------------
+205. anthepro/terminal-tetris (GitHub)
+   URL: https://github.com/anthepro/terminal-tetris
+   Description: tetris written in C for linux terminal, featuring top notch ASCII graphics based on the original tetris game
+   Language: C | Stars: 47 | Forks: 9
+   Created: 2017-10-19T11:28:14Z | Updated: 2025-09-09T11:36:47Z
+   Topics: game, linux-terminal, ncurses, terminal-tetris, tetris, tetris-game
+--------------------------------------------------
+206. joric/ts100tris (GitHub)
+   URL: https://github.com/joric/ts100tris
+   Description: Tetris for TS100 soldering iron (and a few feature branches)
+   Language: C | Stars: 181 | Forks: 7
+   Created: 2017-07-04T11:42:27Z | Updated: 2025-08-15T03:24:24Z
+--------------------------------------------------
+207. aboudoux/TetrisBlazor (GitHub)
+   URL: https://github.com/aboudoux/TetrisBlazor
+   Description: A online tetris game in blazor
+   Language: C# | Stars: 15 | Forks: 12
+   Created: 2020-04-11T20:58:56Z | Updated: 2023-08-21T13:18:41Z
+--------------------------------------------------
+208. midudev/tetris-code-interview (GitHub)
+   URL: https://github.com/midudev/tetris-code-interview
+   Description:
+   Language: JavaScript | Stars: 98 | Forks: 23
+   Created: 2023-09-20T17:48:13Z | Updated: 2025-08-15T01:00:09Z
+--------------------------------------------------
+209. liungkejin/Bash-Games (GitHub)
+   URL: https://github.com/liungkejin/Bash-Games
+   Description: LINUX终端下的贪吃蛇(Snake), 屏保(ClockSaver), 俄罗斯方块(Tetris)游戏(使用Bash shell编写)
+   Language: Shell | Stars: 144 | Forks: 63
+   Created: 2013-05-29T09:27:01Z | Updated: 2025-10-23T07:10:37Z
+--------------------------------------------------
+210. hoyt-tian/tetris (GitHub)
+   URL: https://github.com/hoyt-tian/tetris
+   Description: React实现的俄罗斯方块（包含AI训练）
+   Language: JavaScript | Stars: 33 | Forks: 17
+   Created: 2017-08-25T01:30:17Z | Updated: 2025-02-24T07:56:30Z
+   Topics: react, tetris
+--------------------------------------------------
+211. sake92/nand2tetris (GitHub)
+   URL: https://github.com/sake92/nand2tetris
+   Description: Nand2Tetris course solutions
+   Language: Scala | Stars: 74 | Forks: 25
+   Created: 2017-04-16T21:23:16Z | Updated: 2025-09-30T12:02:14Z
+   Topics: assembly, compiler, cpu-model, nand2tetris, scala, tutorial
+--------------------------------------------------
+212. kmaebashi/jstetris (GitHub)
+   URL: https://github.com/kmaebashi/jstetris
+   Description: Tetris like game written in JavaScript
+   Language: JavaScript | Stars: 15 | Forks: 12
+   Created: 2019-05-15T12:58:13Z | Updated: 2025-10-03T05:49:37Z
+--------------------------------------------------
+213. dashed/tetris-sdl-c (GitHub)
+   URL: https://github.com/dashed/tetris-sdl-c
+   Description: 🕹️ A toy project implementing a simple tetris clone in C for learning SDL 2.x.
+   Language: C | Stars: 84 | Forks: 21
+   Created: 2014-03-14T01:34:13Z | Updated: 2025-07-03T15:42:41Z
+   Topics: c, game, sdl2, tetris
+--------------------------------------------------
+214. IdreesInc/TetNet (GitHub)
+   URL: https://github.com/IdreesInc/TetNet
+   Description: TetNet is an application that uses genetic algorithms to create an evolving Tetris AI.
+   Language: JavaScript | Stars: 71 | Forks: 17
+   Created: 2016-08-11T22:52:28Z | Updated: 2025-07-26T17:03:18Z
+   Topics: ai, genetic-algorithms, javascript, tetris
+--------------------------------------------------
+215. yongye/go (GitHub)
+   URL: https://github.com/yongye/go
+   Description: Tetris Game // Generalized Tetris in Golang
+   Language: Unknown | Stars: 11 | Forks: 7
+   Created: 2013-06-08T08:50:04Z | Updated: 2021-12-17T22:40:30Z
+--------------------------------------------------
+216. itoshkov/nand2tetris-emu (GitHub)
+   URL: https://github.com/itoshkov/nand2tetris-emu
+   Description: Nand2Tetris Software Suite - hardware simulator and CPU and VM emulators
+   Language: Java | Stars: 96 | Forks: 28
+   Created: 2014-10-29T13:17:29Z | Updated: 2025-08-13T15:21:25Z
+   Topics: hardware-simulator, nand2tetris, vm-emulator
+--------------------------------------------------
+217. Mokshit06/sveltris (GitHub)
+   URL: https://github.com/Mokshit06/sveltris
+   Description: Piece together any framework with Svelte (like Tetris)
+   Language: TypeScript | Stars: 182 | Forks: 5
+   Created: 2023-04-07T09:02:50Z | Updated: 2025-03-20T10:41:48Z
+--------------------------------------------------
+218. andwn/sdl2-tetris (GitHub)
+   URL: https://github.com/andwn/sdl2-tetris
+   Description: Tetris clone written in C
+   Language: C | Stars: 20 | Forks: 9
+   Created: 2014-07-18T00:38:24Z | Updated: 2024-12-02T06:16:30Z
+   Topics: c, game, sdl2
+--------------------------------------------------
+219. techniccontroller/wordclock_esp8266 (GitHub)
+   URL: https://github.com/techniccontroller/wordclock_esp8266
+   Description: Software for a Wordclock based on ESP8266 and Neopixel LEDs with PONG, TETRIS, SNAKE game modes
+   Language: C++ | Stars: 39 | Forks: 29
+   Created: 2021-12-06T19:30:47Z | Updated: 2025-10-19T12:20:31Z
+   Topics: esp8266, led-strips, neopixel, ntp, pong, snake, tetris, wifi, wlan, ws2812b
+--------------------------------------------------
+220. leavesCZY/compose-multiplatform-tetris (GitHub)
+   URL: https://github.com/leavesCZY/compose-multiplatform-tetris
+   Description: compose multiplatform 实现一个 Android + windows + macOS + linux 俄罗斯方块
+   Language: Kotlin | Stars: 171 | Forks: 17
+   Created: 2021-06-03T14:33:56Z | Updated: 2025-10-23T15:50:14Z
+   Topics: compose-multiplatform, jetpack-compose-tetris, tetris, tetris-game
+--------------------------------------------------
+221. msk610/3D-TETRIS (GitHub)
+   URL: https://github.com/msk610/3D-TETRIS
+   Description: Code for 3D TETRIS Game
+   Language: Java | Stars: 25 | Forks: 8
+   Created: 2015-08-12T20:12:07Z | Updated: 2025-10-11T03:30:23Z
+   Topics: 3d, android, educational-game, java, libgdx
+--------------------------------------------------
+222. BlockDMask/Tetris_Game (GitHub)
+   URL: https://github.com/BlockDMask/Tetris_Game
+   Description: C lang, simple tetris
+   Language: C | Stars: 14 | Forks: 9
+   Created: 2020-01-07T16:22:05Z | Updated: 2025-03-09T11:23:33Z
+--------------------------------------------------
+223. geniusZhangXu/Tetris (GitHub)
+   URL: https://github.com/geniusZhangXu/Tetris
+   Description: 俄罗斯方块小游戏Swift实现
+   Language: Swift | Stars: 54 | Forks: 13
+   Created: 2016-05-11T09:59:10Z | Updated: 2025-02-18T07:32:36Z
+--------------------------------------------------
+224. nestrischamps/nestrischamps (GitHub)
+   URL: https://github.com/nestrischamps/nestrischamps
+   Description: A web-based OCR and restreamer system for NES Classic Tetris players
+   Language: JavaScript | Stars: 50 | Forks: 15
+   Created: 2021-02-12T11:35:41Z | Updated: 2025-10-22T14:40:45Z
+--------------------------------------------------
+225. ibrahimAtespare/tetris-python (GitHub)
+   URL: https://github.com/ibrahimAtespare/tetris-python
+   Description: A tetris game coded in python.
+   Language: Python | Stars: 16 | Forks: 11
+   Created: 2019-09-28T13:51:06Z | Updated: 2025-07-01T14:26:01Z
+--------------------------------------------------
+226. yestab123/Tetris (GitHub)
+   URL: https://github.com/yestab123/Tetris
+   Description: 俄罗斯方块游戏；基于VC/C命令行窗口，彩色界面，完整的俄罗斯方块实现。(大学课程作业）(Tetris, base on Windows VC&C Command Window)
+   Language: C | Stars: 36 | Forks: 14
+   Created: 2014-04-11T06:26:39Z | Updated: 2025-07-12T08:03:08Z
+--------------------------------------------------
+227. zquancai/tetris (GitHub)
+   URL: https://github.com/zquancai/tetris
+   Description: 俄罗斯方块
+   Language: JavaScript | Stars: 21 | Forks: 19
+   Created: 2015-02-13T03:09:57Z | Updated: 2023-11-07T03:10:37Z
+--------------------------------------------------
+228. LaVieon/GrasshopperTetris (GitHub)
+   URL: https://github.com/LaVieon/GrasshopperTetris
+   Description:
+   Language: C# | Stars: 77 | Forks: 18
+   Created: 2022-08-28T16:06:24Z | Updated: 2025-09-28T03:08:47Z
+--------------------------------------------------
+229. jherskow/nand2tetris (GitHub)
+   URL: https://github.com/jherskow/nand2tetris
+   Description: Problem sets completed from HUJI's offering of From NAND to TETRIS - The Elements of Computing Systems, 2017.  A complete description for each project is available at https://www.nand2tetris.org/course.
+   Language: Assembly | Stars: 125 | Forks: 18
+   Created: 2017-10-23T12:02:41Z | Updated: 2025-10-13T11:32:07Z
+   Topics: assembler, assembly
+--------------------------------------------------
+230. lukecyca/TetrisThemeArduino (GitHub)
+   URL: https://github.com/lukecyca/TetrisThemeArduino
+   Description: Plays the Tetris theme chiptunes-style
+   Language: Arduino | Stars: 19 | Forks: 10
+   Created: 2015-02-11T21:59:30Z | Updated: 2025-07-07T21:15:27Z
+--------------------------------------------------
+231. a544jh/panel-pop (GitHub)
+   URL: https://github.com/a544jh/panel-pop
+   Description: Panel de Pon / Tetris Attack / Puzzle League clone
+   Language: C++ | Stars: 43 | Forks: 9
+   Created: 2015-08-19T18:21:24Z | Updated: 2024-12-27T00:42:40Z
+   Topics: puzzle-league, tetris-attack
+--------------------------------------------------
+232. yeahatgithub/TetrisGame (GitHub)
+   URL: https://github.com/yeahatgithub/TetrisGame
+   Description: 俄罗斯方块游戏开发教程实例代码
+   Language: Python | Stars: 26 | Forks: 12
+   Created: 2018-04-23T09:41:54Z | Updated: 2024-06-25T06:20:27Z
+--------------------------------------------------
+233. Kautenja/gym-tetris (GitHub)
+   URL: https://github.com/Kautenja/gym-tetris
+   Description: An OpenAI Gym interface to Tetris on the NES.
+   Language: Python | Stars: 53 | Forks: 9
+   Created: 2018-05-24T23:56:21Z | Updated: 2025-06-06T07:09:18Z
+   Topics: nes-py, openai-gym, tetris
+--------------------------------------------------
+234. Firemoon777/qrtetris (GitHub)
+   URL: https://github.com/Firemoon777/qrtetris
+   Description: Generate QR-codes with tetris animations
+   Language: Python | Stars: 83 | Forks: 5
+   Created: 2022-06-24T09:39:35Z | Updated: 2025-07-03T16:54:03Z
+   Topics: python3, qrcode, qrcode-generator
+--------------------------------------------------
+235. GregoryCannon/TetrisTrainer (GitHub)
+   URL: https://github.com/GregoryCannon/TetrisTrainer
+   Description: A web-based tetris client that allows you to enter custom piece sets to practice builds.
+   Language: JavaScript | Stars: 48 | Forks: 9
+   Created: 2019-11-02T20:01:34Z | Updated: 2025-06-13T18:37:43Z
+--------------------------------------------------
+236. ha-shine/tetrust (GitHub)
+   URL: https://github.com/ha-shine/tetrust
+   Description: Play Tetris in CLI
+   Language: Rust | Stars: 77 | Forks: 4
+   Created: 2020-02-14T19:22:14Z | Updated: 2025-10-14T20:02:43Z
+--------------------------------------------------
+237. sharpobject/panel-attack (GitHub)
+   URL: https://github.com/sharpobject/panel-attack
+   Description: Tetris Attack/Panel de Pon clone in lua with LOVE
+   Language: Lua | Stars: 54 | Forks: 10
+   Created: 2011-01-24T01:29:17Z | Updated: 2025-09-29T06:53:15Z
+--------------------------------------------------
+238. yogthos/clj-tetris (GitHub)
+   URL: https://github.com/yogthos/clj-tetris
+   Description: Example Tetris in Clojure
+   Language: Clojure | Stars: 44 | Forks: 5
+   Created: 2010-09-22T21:40:56Z | Updated: 2024-02-12T00:52:16Z
+--------------------------------------------------
+239. Alaricus/TinyTetris (GitHub)
+   URL: https://github.com/Alaricus/TinyTetris
+   Description: Tetris in 100 lines of JavaScript.
+   Language: JavaScript | Stars: 37 | Forks: 7
+   Created: 2019-09-24T16:49:15Z | Updated: 2025-07-24T08:24:56Z
+--------------------------------------------------
+240. 3DStris/3DStris (GitHub)
+   URL: https://github.com/3DStris/3DStris
+   Description: A Tetris clone for the 3DS
+   Language: C++ | Stars: 36 | Forks: 7
+   Created: 2019-11-14T01:25:19Z | Updated: 2025-08-27T12:21:37Z
+   Topics: 3ds, 3ds-homebrew, citro2d, cmake, cpp, devkitpro, homebrew, homebrew-application, messagepack, mpack, pcg, pcg-random, tetris, tetris-game
+--------------------------------------------------
+241. programble/bare-metal-tetris (GitHub)
+   URL: https://github.com/programble/bare-metal-tetris
+   Description: Tetris for x86 in bad C. Succeeded by Tetrasm.
+   Language: C | Stars: 63 | Forks: 7
+   Created: 2013-12-29T20:28:00Z | Updated: 2025-07-30T07:51:44Z
+--------------------------------------------------
+242. luontola/tdd-mooc-tetris (GitHub)
+   URL: https://github.com/luontola/tdd-mooc-tetris
+   Description: Exercise for learning Test-Driven Development with the help of predefined tests
+   Language: JavaScript | Stars: 10 | Forks: 51
+   Created: 2021-05-25T17:12:32Z | Updated: 2025-09-02T16:14:25Z
+   Topics: javascript, tdd, tutorial
+--------------------------------------------------
+243. salif/Tetris (GitHub)
+   URL: https://github.com/salif/Tetris
+   Description: Fun and simple original tetris
+   Language: Java | Stars: 25 | Forks: 7
+   Created: 2019-02-12T19:38:18Z | Updated: 2025-09-19T15:34:56Z
+   Topics: beginner, game, game-development, hacktoberfest, hacktoberfest-accepted, hacktoberfest2025, java, tetris, tetris-game, tetromino
+--------------------------------------------------
+244. markheath/typescript-tetris (GitHub)
+   URL: https://github.com/markheath/typescript-tetris
+   Description: Tetris in TypeScript
+   Language: TypeScript | Stars: 19 | Forks: 6
+   Created: 2014-02-13T14:40:23Z | Updated: 2025-05-05T19:44:56Z
+--------------------------------------------------
+245. ConnerArdman/tetris-react (GitHub)
+   URL: https://github.com/ConnerArdman/tetris-react
+   Description: Classic Tetris game implemented in React
+   Language: TypeScript | Stars: 18 | Forks: 9
+   Created: 2023-03-28T03:52:40Z | Updated: 2025-07-01T10:52:06Z
+--------------------------------------------------
+246. DonggeunJung/Tetris (GitHub)
+   URL: https://github.com/DonggeunJung/Tetris
+   Description: [Android & Java] Tetris block game
+   Language: Java | Stars: 14 | Forks: 9
+   Created: 2019-03-13T12:33:00Z | Updated: 2025-06-20T16:39:18Z
+--------------------------------------------------
+247. daihuaye/ngTetris (GitHub)
+   URL: https://github.com/daihuaye/ngTetris
+   Description: Use AngularJS to build a simple Tetris game.
+   Language: JavaScript | Stars: 26 | Forks: 10
+   Created: 2014-09-20T00:43:03Z | Updated: 2020-06-17T08:08:31Z
+--------------------------------------------------
+248. techiew/Tetris (GitHub)
+   URL: https://github.com/techiew/Tetris
+   Description: A Tetris game made in Processing.
+   Language: Processing | Stars: 13 | Forks: 10
+   Created: 2020-02-10T21:56:37Z | Updated: 2025-07-06T08:00:30Z
+   Topics: game, processing, retro, retrogaming, tetris, tetris-game
+--------------------------------------------------
+249. nbarkhina/TetrisJS (GitHub)
+   URL: https://github.com/nbarkhina/TetrisJS
+   Description: This is the classic game of Tetris written in pure HTML
+   Language: TypeScript | Stars: 41 | Forks: 9
+   Created: 2019-01-12T13:18:25Z | Updated: 2025-04-24T21:21:45Z
+--------------------------------------------------
+250. liona24/wasm-tetris (GitHub)
+   URL: https://github.com/liona24/wasm-tetris
+   Description: A simple tetris clone using Rust and WebAssembly
+   Language: Rust | Stars: 79 | Forks: 5
+   Created: 2019-06-06T09:24:19Z | Updated: 2025-05-13T13:24:26Z
+   Topics: rust, tetris, tetris-clone, wasm-pack, webassembly, webassembly-demo
+--------------------------------------------------
